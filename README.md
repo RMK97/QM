@@ -1,5 +1,6 @@
 # QM
-QM Concepts
+QM Concepts:-
+
 Harmonic Oscillator(Ladder Operator + Hermite Polynomial)
 Particle in 1D box
 Particle in 2D box
